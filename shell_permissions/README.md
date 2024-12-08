@@ -1,1 +1,1 @@
-This is the intro to shell
+shell permission to switch user
